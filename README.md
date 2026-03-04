@@ -1,4 +1,4 @@
-# -OmniHand-2025-
+# 智元灵巧手 OmniHand 专业款 2025 安装并连接到电脑进行开发和控制时遇到的问题及总结
 在将智元灵巧手 OmniHand 专业款 2025 安装并连接到电脑进行开发和控制时遇到的问题及总结：
 要将 智元灵巧手 OmniHand 专业款 2025 安装并连接到电脑进行开发和控制，根据你提供的截图和官方文档信息，你主要需要下载以下四大类资源：
 本实验使用的是基于Linux的ros2系统，需要下载的为  SDK、URDF与说明文档中的URDF（上传日期：2026.2.1）：OmniHand Pro 2025 URDF。文档的开源链接：https://www.zhiyuan-robot.com/DOCS/OS/Omnihand-O12
