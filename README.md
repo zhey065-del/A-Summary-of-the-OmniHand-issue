@@ -5,8 +5,10 @@
 
 
 着重分享：根据压缩文件包内的所有步骤在最后显示右手模型的部分指令为：
+
 ros2 launch omnihand_pro_description omnihand_pro_description_launch.py
 但是系统生成的py文件应当是
+
 ros2 launch omnihand_pro_description omnihand_pro_description.launch.py
 文件名的不同可能导致无法运行等问题！！！
 
