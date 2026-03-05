@@ -24,9 +24,12 @@ cd ~/omnihand_pro_ws/src
 ros2 pkg create --build-type ament_python hand_controller --dependencies rclpy tf2_ros geometry_msgs
 
 第二步：编写控制脚本
+
 我们将创建一个名为 hand_mover.py 的文件，让手在空中做圆周运动。
+
 cd hand_controller/hand_controller
 使用你喜欢的编辑器（如 gedit 或 code）创建并打开文件：
+
 gedit hand_mover.py
 复制此代码进入py文件
 
